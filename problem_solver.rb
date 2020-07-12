@@ -10,4 +10,7 @@ class ProblemSolver
 
   def solve_the_hardest_problem
   end
+
+  def solve_tough_problems
+  end
 end
